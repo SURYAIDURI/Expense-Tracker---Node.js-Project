@@ -1,0 +1,842 @@
+<body class="page-template-default page page-id-82106 fl-builder fl-framework-base fl-preset-default fl-full-width fl-search-active fl-submenu-indicator fl-builder-breakpoint-large" itemscope="itemscope" itemtype="https://schema.org/WebPage" data-new-gr-c-s-check-loaded="14.1088.0" data-gr-ext-installed="">
+<div class="fl-page">
+	<header class="fl-page-header fl-page-header-fixed fl-page-nav-right fl-page-nav-toggle-icon fl-page-nav-toggle-visible-mobile" style="display: none;">
+	<div class="fl-page-header-wrap">
+		<div class="fl-page-header-container container">
+			<div class="fl-page-header-row row">
+				<div class="col-sm-12 col-md-3 fl-page-logo-wrap">
+					<div class="fl-page-header-logo">
+						<a href="https://apppresser.com/"><img class="fl-logo-img" itemscope="" itemtype="https://schema.org/ImageObject" src="https://apppresser.com/wp-content/uploads/2019/04/apppresser-logo-reverse@2x.png" data-retina="https://apppresser.com/wp-content/uploads/2019/04/apppresser-logo-reverse@2x.png" alt="AppPresser" style="max-height: 34px; width: 200px;"><meta itemprop="name" content="AppPresser"></a>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-9 fl-page-fixed-nav-wrap">
+					<div class="fl-page-nav-wrap">
+						<nav class="fl-page-nav fl-nav navbar navbar-default navbar-expand-md" aria-label="Header Menu">
+							<button type="button" class="navbar-toggle navbar-toggler" data-toggle="collapse" data-target=".fl-page-nav-collapse">
+								<span><i class="fas fa-bars"></i></span>
+							</button>
+							<div class="fl-page-nav-collapse collapse navbar-collapse">
+								<ul id="menu-simpler-menu" class="nav navbar-nav navbar-right menu"><li id="menu-item-258461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258461 nav-item"><a href="https://apppresser.com/features/" class="nav-link" style="width: auto;">Features</a></li>
+<li id="menu-item-91589" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82106 current_page_item menu-item-91589 nav-item"><a href="https://apppresser.com/pricing/" aria-current="page" class="nav-link" style="width: auto;">Pricing</a></li>
+<li id="menu-item-29081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29081 nav-item"><a href="https://apppresser.com/blog/" class="nav-link" style="width: auto;">Blog</a></li>
+<li id="menu-item-231907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-231907 nav-item" aria-haspopup="true"><a href="#" class="nav-link" style="width: auto;">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-286211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286211 nav-item"><a href="https://apppresser.com/custom-apps/" class="nav-link" style="width: auto;">Custom App Development</a></li>
+	<li id="menu-item-388301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388301 nav-item"><a href="https://apppresser.com/clients/" class="nav-link" style="width: auto;">Agencies</a></li>
+	<li id="menu-item-102882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102882 nav-item"><a href="https://apppresser.com/examples/" class="nav-link" style="width: auto;">Examples</a></li>
+	<li id="menu-item-231908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231908 nav-item"><a href="https://apppresser.com/about/" class="nav-link" style="width: auto;">About Us</a></li>
+	<li id="menu-item-288946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-288946 nav-item"><a target="_blank" rel="noopener" href="https://apppresser.com/affiliate-program/" class="nav-link" style="width: auto;">Affiliate Program</a></li>
+	<li id="menu-item-32866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32866 nav-item"><a href="http://docs.apppresser.com/" class="nav-link" style="width: auto;">Documentation</a></li>
+	<li id="menu-item-390047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390047 nav-item"><a href="https://apppresser.com/alternatives/" class="nav-link" style="width: auto;">AppPresser vs. Alternatives</a></li>
+</ul>
+</li>
+<li id="menu-item-29082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29082 nav-item"><a href="https://apppresser.com/contact/" class="nav-link" style="width: auto;">Contact</a></li>
+</ul>							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header><!-- .fl-page-header-fixed -->
+<div class="fl-page-bar">
+	<div class="fl-page-bar-container container">
+		<div class="fl-page-bar-row row">
+			<div class="col-sm-6 col-md-6 text-left clearfix"><div class="fl-page-bar-text fl-page-bar-text-1"></div></div>			<div class="col-sm-6 col-md-6 text-right clearfix"><ul id="menu-icon-menu" class="fl-page-bar-nav nav navbar-nav menu"><li id="menu-item-338835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338835 nav-item"><a title="Cart" href="https://apppresser.com/checkout/" class="nav-link"><i class="fas fa-shopping-cart"></i></a></li>
+<li id="menu-item-338836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338836 nav-item"><a title="Account" href="https://apppresser.com/account/" class="nav-link"><i class="fas fa-user-circle"></i></a></li>
+</ul></div>		</div>
+	</div>
+</div><!-- .fl-page-bar -->
+<header class="fl-page-header fl-page-header-primary fl-page-nav-right fl-page-nav-toggle-icon fl-page-nav-toggle-visible-mobile" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+	<div class="fl-page-header-wrap">
+		<div class="fl-page-header-container container">
+			<div class="fl-page-header-row row">
+				<div class="col-sm-12 col-md-4 fl-page-header-logo-col">
+					<div class="fl-page-header-logo" itemscope="itemscope" itemtype="https://schema.org/Organization">
+						<a href="https://apppresser.com/" itemprop="url"><img class="fl-logo-img" itemscope="" itemtype="https://schema.org/ImageObject" src="https://apppresser.com/wp-content/uploads/2019/04/apppresser-logo-reverse.png" data-retina="https://apppresser.com/wp-content/uploads/2019/04/apppresser-logo-reverse@2x.png" data-mobile="https://apppresser.com/wp-content/uploads/2019/04/apppresser-logo-reverse.png" alt="AppPresser" data-src="https://apppresser.com/wp-content/uploads/2019/04/apppresser-logo-reverse@2x.png" style="max-height: 34px; width: 400px; display: inline;"><meta itemprop="name" content="AppPresser"></a>
+											</div>
+				</div>
+				<div class="col-sm-12 col-md-8 fl-page-nav-col">
+					<div class="fl-page-nav-wrap">
+						<nav class="fl-page-nav fl-nav navbar navbar-default navbar-expand-md" aria-label="Header Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+							<button type="button" class="navbar-toggle navbar-toggler" data-toggle="collapse" data-target=".fl-page-nav-collapse">
+								<span><i class="fas fa-bars"></i></span>
+							</button>
+							<div class="fl-page-nav-collapse collapse navbar-collapse">
+								<div class="fl-page-nav-search">
+	<a href="javascript:void(0);" class="fas fa-search"></a>
+	<form method="get" role="search" action="https://apppresser.com/" title="Type and press Enter to search.">
+		<input type="search" class="fl-search-input form-control" name="s" placeholder="Search" value="">
+	</form>
+</div>
+<ul id="menu-simpler-menu-1" class="nav navbar-nav navbar-right menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258461 nav-item"><a href="https://apppresser.com/features/" class="nav-link" style="width: auto;">Features</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82106 current_page_item menu-item-91589 nav-item"><a href="https://apppresser.com/pricing/" aria-current="page" class="nav-link" style="width: auto;">Pricing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29081 nav-item"><a href="https://apppresser.com/blog/" class="nav-link" style="width: auto;">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-231907 nav-item" aria-haspopup="true"><a href="#" class="nav-link" style="width: auto;">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286211 nav-item"><a href="https://apppresser.com/custom-apps/" class="nav-link" style="width: auto;">Custom App Development</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388301 nav-item"><a href="https://apppresser.com/clients/" class="nav-link" style="width: auto;">Agencies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102882 nav-item"><a href="https://apppresser.com/examples/" class="nav-link" style="width: auto;">Examples</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231908 nav-item"><a href="https://apppresser.com/about/" class="nav-link" style="width: auto;">About Us</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-288946 nav-item"><a target="_blank" rel="noopener" href="https://apppresser.com/affiliate-program/" class="nav-link" style="width: auto;">Affiliate Program</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32866 nav-item"><a href="http://docs.apppresser.com/" class="nav-link" style="width: auto;">Documentation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390047 nav-item"><a href="https://apppresser.com/alternatives/" class="nav-link" style="width: auto;">AppPresser vs. Alternatives</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29082 nav-item"><a href="https://apppresser.com/contact/" class="nav-link" style="width: auto;">Contact</a></li>
+</ul>							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header><!-- .fl-page-header -->
+	<div class="fl-page-content" itemprop="mainContentOfPage">
+
+		
+<div class="fl-content-full container">
+	<div class="row">
+		<div class="fl-content col-md-12">
+			<article class="fl-post post-82106 page type-page status-publish hentry" id="fl-post-82106" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+
+			<div class="fl-post-content clearfix" itemprop="text">
+		<div class="fl-builder-content fl-builder-content-82106 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="82106"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-637d1905dbaeb" data-node="637d1905dbaeb">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-637d1905dbae6" data-node="637d1905dbae6">
+			<div class="fl-col fl-node-637d1905dbae9" data-node="637d1905dbae9">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-637d1905dbaea" data-node="637d1905dbaea">
+	<div class="fl-module-content fl-node-content">
+		<h1 class="fl-heading">
+		<span class="fl-heading-text">Pricing Plans</span>
+	</h1>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5e68f97b01ab5" data-node="5e68f97b01ab5">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5e68f97b01ab9" data-node="5e68f97b01ab9">
+			<div class="fl-col fl-node-5e68f97b01abf" data-node="5e68f97b01abf">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-pp-pricing-table fl-node-5e68f97b01ac0" data-node="5e68f97b01ac0">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="pp-pricing-table pp-pricing-table-spacing-0">
+
+		<div class="pp-pricing-table-switch">
+		<div class="pp-pricing-table-buttons">
+			<a href="javascript:void(0)" class="pp-pricing-table-button pp-pricing-button-1 pp-pricing-button-active" data-activate-price="primary">Annual</a>
+			<a href="javascript:void(0)" class="pp-pricing-table-button pp-pricing-button-2" data-activate-price="secondary">Monthly</a>
+		</div>
+	</div>
+	
+			<div class="pp-pricing-table-col pp-pricing-table-col-4 pp-pricing-table-matrix">
+			<div class="pp-pricing-table-column">
+				<div class="pp-pricing-table-header">
+					<h4 class="pp-pricing-table-title">&nbsp;</h4>
+					<div class="pp-pricing-table-price" style="height: 100px;">
+						&nbsp;
+					</div>
+				</div>
+				<ul class="pp-pricing-table-features">
+																	<li class="pp-pricing-table-item-1">iOS &amp; Android Apps</li>
+												<li class="pp-pricing-table-item-2">Push Notifications</li>
+												<li class="pp-pricing-table-item-3"><a class="modal-5e68f97b01ac2" href="#"><i class="far fa-plus-square"></i> Core Features</a></li>
+												<li class="pp-pricing-table-item-4"><a class="modal-5e68f97b01ac3" href="#"><i class="far fa-plus-square"></i> Extra Features</a></li>
+												<li class="pp-pricing-table-item-5">Memberships</li>
+												<li class="pp-pricing-table-item-6">WooCommerce</li>
+												<li class="pp-pricing-table-item-7">BuddyPress / BuddyBoss</li>
+												<li class="pp-pricing-table-item-8">LearnDash</li>
+												<li class="pp-pricing-table-item-9">App Store Submission</li>
+												<li class="pp-pricing-table-item-10"><a class="modal-5e68f97b01acb" href="#"><i class="far fa-plus-square"></i> Plus Features</a></li>
+												<li class="pp-pricing-table-item-11"><a class="modal-5f3be8813e439" href="#"><i class="far fa-plus-square"></i> In App Purchases</a></li>
+												<li class="pp-pricing-table-item-12">Apple/Google Login</li>
+												<li class="pp-pricing-table-item-13"><a class="modal-5e68f97b01acc" href="#"><i class="far fa-plus-square"></i>  Notification Limit</a></li>
+												<li class="pp-pricing-table-item-14">App Downloads</li>
+															</ul>
+			</div>
+		</div>
+	
+		<div class="pp-pricing-table-col pp-pricing-table-card pp-pricing-table-col-4">
+		<div class="pp-pricing-table-column pp-pricing-table-column-0">
+						<div class="pp-pricing-table-inner-wrap">
+				<div class="pp-pricing-table-header">
+											<h4 class="pp-pricing-table-title">Standard</h4>
+										<div class="pp-pricing-table-price pp-price-primary">
+						$59/mo <span class="pp-pricing-table-duration">Billed Annually</span>
+					</div>
+											<div class="pp-pricing-table-price pp-price-secondary">
+						$79/mo <span class="pp-pricing-table-duration">Billed Monthly</span>
+					</div>
+														</div>
+				<ul class="pp-pricing-table-features">
+																	<li class="pp-pricing-table-item-1" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">iOS &amp; Android Apps</span>
+														<span>1</span>						</li>
+												<li class="pp-pricing-table-item-2" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">Push Notifications</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-3" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01ac2" href="#"><i class="far fa-plus-square"></i> Core Features</a></span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-4" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01ac3" href="#"><i class="far fa-plus-square"></i> Extra Features</a></span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-5" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">Memberships</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-6" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">WooCommerce</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-7" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">BuddyPress / BuddyBoss</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-8" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">LearnDash</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-9" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">App Store Submission</span>
+														<span><strong>+ $199</strong> <em>(waived for annual subscriptions)</em></span>						</li>
+												<li class="pp-pricing-table-item-10" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01acb" href="#"><i class="far fa-plus-square"></i> Plus Features</a></span>
+														<span class="ex"></span>						</li>
+												<li class="pp-pricing-table-item-11" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5f3be8813e439" href="#"><i class="far fa-plus-square"></i> In App Purchases</a></span>
+														<span class="ex"></span>						</li>
+												<li class="pp-pricing-table-item-12" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">Apple/Google Login</span>
+														<span class="ex"></span>						</li>
+												<li class="pp-pricing-table-item-13" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01acc" href="#"><i class="far fa-plus-square"></i>  Notification Limit</a></span>
+														<span>10,000 Devices</span>						</li>
+												<li class="pp-pricing-table-item-14" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">App Downloads</span>
+														<span>Unlimited</span>						</li>
+															</ul>
+
+				<div class="fl-button-wrap fl-button-width-full fl-button-center">
+			<a href="https://apppresser.chargebee.com/hosted_pages/plans/standard-yearly" target="_self" class="fl-button pp-pricing-package-button" role="button" data-primary-link="https://apppresser.chargebee.com/hosted_pages/plans/standard-yearly" data-secondary-link="https://apppresser.chargebee.com/hosted_pages/plans/standard-monthly">
+							<span class="fl-button-text">Purchase</span>
+					</a>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="pp-pricing-table-col pp-pricing-table-card pp-pricing-table-col-4 pp-pricing-table-highlight pp-has-featured-title">
+		<div class="pp-pricing-table-column pp-pricing-table-column-1">
+							<div class="pp-pricing-featured-title">
+					Popular				</div>
+						<div class="pp-pricing-table-inner-wrap">
+				<div class="pp-pricing-table-header">
+											<h4 class="pp-pricing-table-title">Professional</h4>
+										<div class="pp-pricing-table-price pp-price-primary">
+						$79/mo <span class="pp-pricing-table-duration">Billed Annually</span>
+					</div>
+											<div class="pp-pricing-table-price pp-price-secondary">
+						$99/mo <span class="pp-pricing-table-duration">Billed Monthly</span>
+					</div>
+														</div>
+				<ul class="pp-pricing-table-features">
+																	<li class="pp-pricing-table-item-1" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">iOS &amp; Android Apps</span>
+														<span>1</span>						</li>
+												<li class="pp-pricing-table-item-2" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">Push Notifications</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-3" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01ac2" href="#"><i class="far fa-plus-square"></i> Core Features</a></span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-4" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01ac3" href="#"><i class="far fa-plus-square"></i> Extra Features</a></span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-5" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">Memberships</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-6" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">WooCommerce</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-7" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">BuddyPress / BuddyBoss</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-8" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">LearnDash</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-9" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">App Store Submission</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-10" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01acb" href="#"><i class="far fa-plus-square"></i> Plus Features</a></span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-11" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5f3be8813e439" href="#"><i class="far fa-plus-square"></i> In App Purchases</a></span>
+														<span class="ex"></span>						</li>
+												<li class="pp-pricing-table-item-12" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">Apple/Google Login</span>
+														<span class="ex"></span>						</li>
+												<li class="pp-pricing-table-item-13" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01acc" href="#"><i class="far fa-plus-square"></i>  Notification Limit</a></span>
+														<span>100,000 Devices</span>						</li>
+												<li class="pp-pricing-table-item-14" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">App Downloads</span>
+														<span>Unlimited</span>						</li>
+															</ul>
+
+				<div class="fl-button-wrap fl-button-width-full fl-button-center">
+			<a href="https://apppresser.chargebee.com/hosted_pages/plans/professional-yearly" target="_self" class="fl-button pp-pricing-package-button" role="button" data-primary-link="https://apppresser.chargebee.com/hosted_pages/plans/professional-yearly" data-secondary-link="https://apppresser.chargebee.com/hosted_pages/plans/professional-monthly">
+							<span class="fl-button-text">Purchase</span>
+					</a>
+</div>
+			</div>
+		</div>
+	</div>
+		<div class="pp-pricing-table-col pp-pricing-table-card pp-pricing-table-col-4">
+		<div class="pp-pricing-table-column pp-pricing-table-column-2">
+						<div class="pp-pricing-table-inner-wrap">
+				<div class="pp-pricing-table-header">
+											<h4 class="pp-pricing-table-title">Advanced</h4>
+										<div class="pp-pricing-table-price pp-price-primary">
+						$129/mo <span class="pp-pricing-table-duration">Billed Annually</span>
+					</div>
+											<div class="pp-pricing-table-price pp-price-secondary">
+						$149/mo <span class="pp-pricing-table-duration">Billed Monthly</span>
+					</div>
+														</div>
+				<ul class="pp-pricing-table-features">
+																	<li class="pp-pricing-table-item-1" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">iOS &amp; Android Apps</span>
+														<span>2</span>						</li>
+												<li class="pp-pricing-table-item-2" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">Push Notifications</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-3" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01ac2" href="#"><i class="far fa-plus-square"></i> Core Features</a></span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-4" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01ac3" href="#"><i class="far fa-plus-square"></i> Extra Features</a></span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-5" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">Memberships</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-6" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">WooCommerce</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-7" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">BuddyPress / BuddyBoss</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-8" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">LearnDash</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-9" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">App Store Submission</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-10" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01acb" href="#"><i class="far fa-plus-square"></i> Plus Features</a></span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-11" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5f3be8813e439" href="#"><i class="far fa-plus-square"></i> In App Purchases</a></span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-12" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">Apple/Google Login</span>
+														<span class="check"></span>						</li>
+												<li class="pp-pricing-table-item-13" style="height: 0px;">
+														<span class="pp-pricing-table-item-label"><a class="modal-5e68f97b01acc" href="#"><i class="far fa-plus-square"></i>  Notification Limit</a></span>
+														<span>1M Devices</span>						</li>
+												<li class="pp-pricing-table-item-14" style="height: 0px;">
+														<span class="pp-pricing-table-item-label">App Downloads</span>
+														<span>Unlimited</span>						</li>
+															</ul>
+
+				<div class="fl-button-wrap fl-button-width-full fl-button-center">
+			<a href="https://apppresser.chargebee.com/hosted_pages/plans/custom-yearly" target="_self" class="fl-button pp-pricing-package-button" role="button" data-primary-link="https://apppresser.chargebee.com/hosted_pages/plans/custom-yearly" data-secondary-link="https://apppresser.chargebee.com/hosted_pages/plans/custom-monthly">
+							<span class="fl-button-text">Purchase</span>
+					</a>
+</div>
+			</div>
+		</div>
+	</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-photo fl-node-5eb1adfc2f8ba" data-node="5eb1adfc2f8ba">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope="" itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<img loading="lazy" class="fl-photo-img wp-image-372747 size-large" src="https://apppresser.com/wp-content/uploads/2020/05/cc_logos-1024x132.jpg" alt="cc_logos" itemprop="image" height="132" width="1024" title="cc_logos" srcset="https://apppresser.com/wp-content/uploads/2020/05/cc_logos-1024x132.jpg 1024w, https://apppresser.com/wp-content/uploads/2020/05/cc_logos-300x39.jpg 300w, https://apppresser.com/wp-content/uploads/2020/05/cc_logos-768x99.jpg 768w, https://apppresser.com/wp-content/uploads/2020/05/cc_logos.jpg 1088w" sizes="(max-width: 1024px) 100vw, 1024px">
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-html fl-node-5e9dcd2f4e57f" data-node="5e9dcd2f4e57f">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<p align="center">Looking for a multiple app (reseller) plan? <a href="https://apppresser.com/reseller/">Click here.</a></p></div>
+	</div>
+</div>
+<div class="fl-module fl-module-pp-modal-box fl-node-5e68f97b01ac2" data-node="5e68f97b01ac2">
+	<div class="fl-module-content fl-node-content">
+			
+	</div>
+</div>
+<div class="fl-module fl-module-pp-modal-box fl-node-5e68f97b01ac3" data-node="5e68f97b01ac3">
+	<div class="fl-module-content fl-node-content">
+			
+	</div>
+</div>
+<div class="fl-module fl-module-pp-modal-box fl-node-5e68f97b01acb" data-node="5e68f97b01acb">
+	<div class="fl-module-content fl-node-content">
+			
+	</div>
+</div>
+<div class="fl-module fl-module-pp-modal-box fl-node-5e68f97b01acc" data-node="5e68f97b01acc">
+	<div class="fl-module-content fl-node-content">
+			
+	</div>
+</div>
+<div class="fl-module fl-module-pp-modal-box fl-node-5f3be8813e439" data-node="5f3be8813e439">
+	<div class="fl-module-content fl-node-content">
+			
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5e68f97b01ac8" data-node="5e68f97b01ac8">
+			<div class="fl-col fl-node-5e68f97b01ac9" data-node="5e68f97b01ac9">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-5e68f97b01aca" data-node="5e68f97b01aca">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>&nbsp;</p>
+<ul>
+<li>Custom development is available for an additional charge on our Professional and Advanced Plans</li>
+<li>No charge for app submission, except on the monthly billed Standard plan</li>
+<li>Purchase an additional 250,000 devices for push notifications for $20/mo</li>
+<li>Purchase 1 add-on app for 50% off</li>
+</ul>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5e68f97b01ad8" data-node="5e68f97b01ad8">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5e67cc1683ce4" data-node="5e67cc1683ce4">
+			<div class="fl-col fl-node-5e67cc1683ced fl-col-small" data-node="5e67cc1683ced">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5e67cc1683cef" data-node="5e67cc1683cef">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Who is using AppPresser? What do they think?</span>
+	</h3>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5e67cc1683cf0" data-node="5e67cc1683cf0">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Check out what some of our customers have to say about AppPresser.</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5e67cc1683cee fl-col-small" data-node="5e67cc1683cee">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-video fl-node-5e67cc1683cf1" data-node="5e67cc1683cf1">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="fl-video fl-embed-video">
+	<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe loading="lazy" src="https://www.youtube.com/embed/RlfHWXKGBbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" name="fitvid0"></iframe></div></div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5e68f97b01ad9" data-node="5e68f97b01ad9">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5e68f97b01ada" data-node="5e68f97b01ada">
+			<div class="fl-col fl-node-5e68f97b01adb" data-node="5e68f97b01adb">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-pp-advanced-accordion fl-node-5e68f97b01ac7" data-node="5e68f97b01ac7">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="pp-accordion pp-accordion-collapse pp-accordion-initialized">
+			<div id="pp-accord-5e68f97b01ac7-1" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">Do you have a free trial?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>Yes, all plans come with a 14 day free trial. You will be automatically charged after your trial ends unless you cancel.</p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-2" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">How does the free trial work?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>During your 14 day free trial, you have access to the AppPresser app builder to customize and build your app. You can test in the browser preview, and we can help you setup Android device testing. You will be automatically billed after 14 days unless you cancel.</p>
+<p>To submit your app to the app stores, you must be on a paid plan.</p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-3" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">Do you offer refunds?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>We do not offer refunds. All plans come with a 14 day trial period, you can cancel anytime before that and you will not be charged.</p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-4" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">Are there any other costs involved?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>You must purchase your own Apple and Android developer accounts, for $99/yr and $25 respectively. <a href="https://docs.apppresser.com/article/400-apple-and-google-developer-licenses">More details.</a></p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-5" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">What happens after I purchase?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>After you add your billing information and start your free trial, you will be redirected to your app dashboard at myapppresser.com. There you can create a password and begin building your app. You will also be emailed login information.</p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-6" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">What happens if I cancel?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>When your subscription expires or is cancelled, your app can no longer access your AppPresser account, which means your app will stop functioning correctly. You must have an active subscription for your app to work, as per our <a href="https://apppresser.com/terms">terms</a>.</p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-7" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">Can I upgrade to another plan?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>Yes, you can upgrade at any time. For example, you can upgrade from a monthly plan to a yearly plan, or a Standard Plan to a Professional Plan.</p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-8" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">Do you submit to the app stores?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>Yes, we submit the app on your behalf, in your developer accounts. You can resubmit the app at any time after your app submissions have been setup.</p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-9" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">Will custom plugins work in the app?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>Many plugins, such as Gravity Forms, WooCommerce, BuddyPress, LearnDash, Restrict Content Pro, and others work fine in apps out of the box. Many customers use other plugins successfully, but we do not officially support any plugins except those named above. We provide custom development services for customers on our Custom Plan if you need a special plugin integration.</p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-10" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">Can I use a custom WordPress theme?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>You can use any theme for your website, but AppPresser uses the AP3 Ion Theme when you show website pages in the app. It is not possible to show a custom theme in the app. <a href="https://docs.apppresser.com/article/365-custom-themes">See this video for more information.</a></p>
+</div>			</div>
+		</div>
+			<div id="pp-accord-5e68f97b01ac7-11" class="pp-accordion-item">
+			<div class="pp-accordion-button" style="height: 50px;">
+				
+								<span class="pp-accordion-button-label" itemprop="name description">Can I just hire AppPresser to build my app for me?</span>
+
+									<span class="pp-accordion-button-icon pp-accordion-open fa fa-plus pp-accordion-icon-right"></span>
+					<span class="pp-accordion-button-icon pp-accordion-close fa fa-minus pp-accordion-icon-right"></span>
+				
+			</div>
+
+			<div class="pp-accordion-content fl-clearfix">
+				<div itemprop="text"><p>Yes we offer <a href="https://apppresser.com/custom-apps/">Custom Mobile App Development Services</a> if you would like to hire us to build a custom mobile app to your specifications.</p>
+</div>			</div>
+		</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div>	</div><!-- .fl-post-content -->
+	
+</article>
+
+<!-- .fl-post -->
+		</div>
+	</div>
+</div>
+
+
+	</div><!-- .fl-page-content -->
+		<footer class="fl-page-footer-wrap" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+		<div class="fl-page-footer-widgets">
+	<div class="fl-page-footer-widgets-container container">
+		<div class="fl-page-footer-widgets-row row">
+		<div class="col-sm-3 col-md-3"><aside id="media_image-3" class="fl-widget widget_media_image"><img width="200" height="34" src="https://apppresser.com/wp-content/uploads/2019/04/apppresser-logo-reverse.png" class="image wp-image-338801  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;"></aside><aside id="custom_html-3" class="widget_text fl-widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://twitter.com/apppresser" target="_blank" rel="noopener"><i class="fab fa-twitter-square"></i></a> <a href="https://www.facebook.com/apppresser/" target="_blank" rel="noopener"><i class="fab fa-facebook-square"></i></a> <a href="https://www.youtube.com/user/apppresser/" target="_blank" rel="noopener"><i class="fab fa-youtube-square"></i></a> <a href="https://instagram.com/apppresser/" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a></div></aside></div><div class="col-sm-3 col-md-3"><aside id="text-11" class="fl-widget widget_text">			<div class="textwidget"><div style="color: #ffffff;">Use AppPresser to build your own WordPress powered mobile apps or <a style="color: #ffc425;" title="Custom Mobile App Development Services" href="https://apppresser.com/custom-apps/">hire the AppPresser development team</a> to build custom mobile apps for you.</div>
+</div>
+		</aside></div><div class="col-sm-3 col-md-3"><aside id="nav_menu-7" class="fl-widget widget_nav_menu"><div class="menu-type-of-apps-container"><ul id="menu-type-of-apps" class="menu"><li id="menu-item-389840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389840"><a href="https://apppresser.com/features/woocommerce-apps/">WooCommerce Apps</a></li>
+<li id="menu-item-389844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389844"><a href="https://apppresser.com/features/learndash/">LearnDash Apps</a></li>
+<li id="menu-item-389843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389843"><a href="https://apppresser.com/features/membership-apps/">Membership Apps</a></li>
+<li id="menu-item-390480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390480"><a href="https://apppresser.com/features/buddyboss-app/">BuddyBoss App</a></li>
+<li id="menu-item-389841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389841"><a href="https://apppresser.com/school-apps/">School Apps</a></li>
+<li id="menu-item-389842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389842"><a href="https://apppresser.com/features/podcasting/">Podcast Apps</a></li>
+<li id="menu-item-389846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389846"><a href="https://apppresser.com/features/buddypress-apps/">BuddyPress Apps</a></li>
+<li id="menu-item-389848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389848"><a href="https://apppresser.com/church-apps/">Church Apps</a></li>
+</ul></div></aside></div><div class="col-sm-3 col-md-3"><aside id="nav_menu-6" class="fl-widget widget_nav_menu"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-29092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29092"><a href="https://apppresser.com/account/">My Account</a></li>
+<li id="menu-item-46011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46011"><a href="https://apppresser.com/archive/">Blog Archive</a></li>
+<li id="menu-item-29089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29089"><a href="https://apppresser.com/about/">About Us</a></li>
+<li id="menu-item-29091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29091"><a href="https://apppresser.com/faq/">FAQ</a></li>
+<li id="menu-item-29093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29093"><a href="https://apppresser.com/privacy/">Privacy Policy</a></li>
+<li id="menu-item-29094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29094"><a href="https://apppresser.com/terms/">Terms of Service</a></li>
+<li id="menu-item-29090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29090"><a href="https://apppresser.com/contact/">Contact</a></li>
+</ul></div></aside></div>		</div>
+	</div>
+</div><!-- .fl-page-footer-widgets -->
+<div class="fl-page-footer">
+	<div class="fl-page-footer-container container">
+		<div class="fl-page-footer-row row">
+			<div class="col-sm-6 col-md-6 text-left clearfix"><div class="fl-page-footer-text fl-page-footer-text-1">© 2020 AppPresser - All Rights Reserved.</div></div>			<div class="col-sm-6 col-md-6 text-right clearfix"><div class="fl-page-footer-text fl-page-footer-text-2"></div></div>		</div>
+	</div>
+</div><!-- .fl-page-footer -->
+	</footer>
+		</div><!-- .fl-page -->
+	<script type="text/javascript">
+
+	jQuery('body').on('geo_timeout_error', onGeo_timeout_error);
+
+	function onGeo_timeout_error() {
+		console.warn('The geolocationGetCurrent timed out');
+
+		var html  = '<h2 style="margin-top:36px;">GPS Failed</h2>';
+			html += '<p>Your GPS did not respond. Be sure you have your GPS enabled and try again.</p>';
+			html += '<button onclick="AppGeo_getLoc()">Try Again</button>';
+			html += '<div style="height:1000px"></div>'; // a little hack to hide the checkin button without really tampering with it.
+
+		jQuery('#map-canvas').html(html);
+
+	}
+
+	</script>
+		<script type="text/javascript" src="https://apppresser.com/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2" id="jquery-fitvids-js"></script>
+<script type="text/javascript" src="https://apppresser.com/wp-content/uploads/bb-plugin/cache/82106-layout.js?ver=0ffacd06dacf9854bb80a54a77b359a1" id="fl-builder-layout-82106-js"></script>
+<script type="text/javascript" id="edd-ajax-js-extra">
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"https:\/\/apppresser.com\/wp-admin\/admin-ajax.php","position_in_cart":"","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","is_checkout":"0","default_gateway":"stripe","redirect_to_checkout":"1","checkout_page":"https:\/\/apppresser.com\/checkout\/","permalinks":"1","quantities_enabled":"1","taxes_enabled":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://apppresser.com/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.10.1" id="edd-ajax-js"></script>
+<script type="text/javascript" src="https://apppresser.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.4.1.2" id="jquery-throttle-js"></script>
+<script type="text/javascript" src="https://apppresser.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.4.1.2" id="jquery-magnificpopup-js"></script>
+<script type="text/javascript" src="https://apppresser.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.1.5" id="fl-automator-js"></script>
+
+
+<iframe name="__privateStripeMetricsController0300" frameborder="0" allowtransparency="true" scrolling="no" role="presentation" allow="payment *" src="https://js.stripe.com/v3/m-outer-93afeeb17bc37e711759584dbfc50d47.html#url=https%3A%2F%2Fapppresser.com%2Fpricing%2F&amp;title=Pricing%20%7C%20AppPresser&amp;referrer=https%3A%2F%2Fapppresser.com%2Ffeatures%2Fmembership-apps%2F&amp;muid=b71978f6-c1f5-4053-9d92-c98da5986bcc3cb922&amp;sid=03289bd5-2e97-4e8d-aa87-c211f9f97145d15854&amp;version=6&amp;preview=false" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important; user-select: none !important;"></iframe><div id="modal-5e68f97b01ac2" class="pp-modal-wrap">
+	<div class="pp-modal-container">
+		<div class="pp-modal-overlay"></div>
+				<div class="pp-modal layout-standard">
+						<div class="pp-modal-body">
+												<div class="pp-modal-header">
+										<h2 class="pp-modal-title">Core Features</h2>
+																<div class="pp-modal-close box-top-right">
+							<div class="bar-wrap">
+								<span class="bar-1"></span>
+								<span class="bar-2"></span>
+							</div>
+						</div>
+														</div>
+								<div class="pp-modal-content">
+					<div class="pp-modal-content-inner">
+						<p><strong>App builder:</strong>&nbsp;use our visual customizer to build your app.</p>
+<p><strong>Support and updates:&nbsp;</strong>technical support and regular maintenance and feature releases from our team.</p>
+<p><strong>AP3 Ion Theme:&nbsp;</strong>our WordPress theme to integrate your WordPress content.</p>
+<p><strong>Social sharing:&nbsp;</strong>share button on posts.</p>
+<p><strong>Translations:&nbsp;</strong>translate your app to multiple languages, includes language switcher in app, supports WPML.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="modal-5e68f97b01ac3" class="pp-modal-wrap">
+	<div class="pp-modal-container">
+		<div class="pp-modal-overlay"></div>
+				<div class="pp-modal layout-standard">
+						<div class="pp-modal-body">
+												<div class="pp-modal-header">
+										<h2 class="pp-modal-title">Extra Features</h2>
+																<div class="pp-modal-close box-top-right">
+							<div class="bar-wrap">
+								<span class="bar-1"></span>
+								<span class="bar-2"></span>
+							</div>
+						</div>
+														</div>
+								<div class="pp-modal-content">
+					<div class="pp-modal-content-inner">
+						<p><strong>Camera:</strong> use the device camera to upload images to WordPress, used in our BuddyPress integration.</p>
+<p><strong>App Login/Registration:&nbsp;</strong>Login/registration with WordPress, hide/show menu items based on login.</p>
+<p><strong>Admob Ads:&nbsp;</strong>show a small ad banner in your app, get paid when people click.</p>
+<p><strong>Downloads &amp; Offline media:&nbsp;</strong>add images and other media to your app that can be accessed offline. Audio and Video downloads.</p>
+<p><strong>Advanced Push Features:&nbsp;</strong>send to individual devices, open specific app or external pages, and more.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="modal-5e68f97b01acb" class="pp-modal-wrap">
+	<div class="pp-modal-container">
+		<div class="pp-modal-overlay"></div>
+				<div class="pp-modal layout-standard">
+						<div class="pp-modal-body">
+												<div class="pp-modal-header">
+										<h2 class="pp-modal-title">Plus Features</h2>
+																<div class="pp-modal-close box-top-right">
+							<div class="bar-wrap">
+								<span class="bar-1"></span>
+								<span class="bar-2"></span>
+							</div>
+						</div>
+														</div>
+								<div class="pp-modal-content">
+					<div class="pp-modal-content-inner">
+						<p><strong>Segmented Notifications:&nbsp;</strong>Allow app users to choose a segment like Business, Sports, or a specific county, then you can send different notifications to these segments. Limit of 50 segments total.</p>
+<p><strong>Push Notification API:</strong> send notifications programatically through our API. Great for custom notifications from WordPress.</p>
+<p><strong>Add Team Members: </strong>add unlimited developers or clients to access your app with their own login. Great for working with teams or clients.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="modal-5e68f97b01acc" class="pp-modal-wrap">
+	<div class="pp-modal-container">
+		<div class="pp-modal-overlay"></div>
+				<div class="pp-modal layout-standard">
+						<div class="pp-modal-body">
+												<div class="pp-modal-header">
+										<h2 class="pp-modal-title">Push Notification Limit</h2>
+																<div class="pp-modal-close box-top-right">
+							<div class="bar-wrap">
+								<span class="bar-1"></span>
+								<span class="bar-2"></span>
+							</div>
+						</div>
+														</div>
+								<div class="pp-modal-content">
+					<div class="pp-modal-content-inner">
+						<p>Limits the number of devices that can be subscribed for push notifications. Does not limit the number of apps that can be downloaded or installed. Purchase an additional 250,000 devices for $20/month.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="modal-5f3be8813e439" class="pp-modal-wrap">
+	<div class="pp-modal-container">
+		<div class="pp-modal-overlay"></div>
+				<div class="pp-modal layout-standard">
+						<div class="pp-modal-body">
+												<div class="pp-modal-header">
+										<h2 class="pp-modal-title">In App Purchases</h2>
+																<div class="pp-modal-close box-top-right">
+							<div class="bar-wrap">
+								<span class="bar-1"></span>
+								<span class="bar-2"></span>
+							</div>
+						</div>
+														</div>
+								<div class="pp-modal-content">
+					<div class="pp-modal-content-inner">
+						<p>Selling digital content such as courses, memberships, ebooks, media, or downloads requires the use of in app purchases. You get one subscription allowed with the Advanced plan, multiple in app purchases require custom development at an additional cost. See <a href="https://docs.apppresser.com/article/468-in-app-purchases-overview">our documentation</a> for more information.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><iframe id="_hjSafeContext_94979152" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-5e66f98b4ee957db209dc6f63e3d59dd.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body>
